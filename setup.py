@@ -65,7 +65,7 @@ setup(
     packages=find_packages(exclude=['contrib', 'docs', 'tests*']),
     namespace_packages=['ckanext'],
 
-    install_requires=['natsort==7.1.1'],
+    install_requires=['natsort==6.2.1'],
 
     # If there are data files included in your packages that need to be
     # installed, specify them here.  If using Python 2.6 or less, then these
